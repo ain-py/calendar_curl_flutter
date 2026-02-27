@@ -4,7 +4,7 @@ A beautiful calendar page-curl effect implemented using Flutter and custom fragm
 
 ## Demo
 
-<video src="assets/demo_video.mov" controls width="300"></video>
+![Demo GIF](assets/demo.gif)
 
 ## Features
 
