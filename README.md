@@ -10,7 +10,7 @@ A beautiful calendar page-curl effect implemented using Flutter and custom fragm
 
 - Real-time page curl animation.
 - Custom GLSL shader for realistic paper physics and shadows.
-- Interactive dragging and wind-blown animation effects.
+- Interactives dragging 
 
 ## Getting Started
 
