@@ -1,0 +1,92 @@
+# .gitignore for Flutter
+
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.buildlog/
+.history
+.svn/
+.vscode/
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# The .flutter-plugins-dependencies file should not be checked in
+.flutter-plugins-dependencies
+
+# Android related
+**/android/app/src/main/res/drawable-*/
+**/android/app/src/main/res/mipmap-*/
+**/android/app/src/main/res/values/strings.xml
+.gradle/
+**/android/local.properties
+**/android/key.properties
+**/android/app/google-services.json
+**/android/.cxx/
+**/android/.externalNativeBuild/
+**/android/captures/
+**/android/app/build/
+**/android/build/
+**/android/app/src/main/assets/google-services.json
+
+# iOS/macOS related
+**/ios/Flutter/Generated.xcconfig
+**/ios/Flutter/flutter_export_environment.sh
+**/ios/Flutter/App.framework
+**/ios/Flutter/App.podspec
+**/ios/Flutter/App.framework.zip
+**/ios/Flutter/Flutter.framework
+**/ios/Flutter/Flutter.podspec
+**/ios/Flutter/Generated.properties
+**/ios/Pods/
+**/ios/.symlinks/
+**/ios/Runner/GeneratedPluginRegistrant.h
+**/ios/Runner/GeneratedPluginRegistrant.m
+**/ios/derived_data/
+**/ios/Runner/Assets.xcassets/AppIcon.appiconset/
+**/ios/Runner/Assets.xcassets/LaunchImage.imageset/
+*.moved-aside
+*.xcuserstate
+**/.pub-cache/
+**/.dart_tool/
+**/build/
+**/macos/Flutter/ephemeral/
+**/macos/Flutter/Generated.xcconfig
+**/macos/Flutter/flutter_export_environment.sh
+**/macos/Flutter/Generated.properties
+**/macos/Pods/
+**/macos/.symlinks/
+**/macos/Runner/GeneratedPluginRegistrant.h
+**/macos/Runner/GeneratedPluginRegistrant.m
+**/macos/derived_data/
+**/macos/Runner/Assets.xcassets/AppIcon.appiconset/
+**/macos/Runner/Assets.xcassets/LaunchImage.imageset/
+
+# Web related
+**/web/index.html
+**/web/manifest.json
+**/web/favicon.png
+
+# Windows related
+**/windows/flutter/generated_plugin_registrant.cc
+**/windows/flutter/generated_plugin_registrant.h
+**/windows/flutter/generated_plugins.cmake
+
+# Linux related
+**/linux/flutter/generated_plugin_registrant.cc
+**/linux/flutter/generated_plugin_registrant.h
+**/linux/flutter/generated_plugins.cmake
+
+# Coverage
+coverage/
+
+# Symbols
+*.pdb
+*.orig
